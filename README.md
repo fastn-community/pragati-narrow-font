@@ -50,7 +50,7 @@ server](https://discord.gg/bucrdvptYd).
 
 ## License
 
-Since Arya Font is under [Open Font Licence](https://fonts.google.com/specimen/Pragati+Narrow/about?subset=devanagari), this FPM wrapper is also
+Since Pragati Narrow Font is under [Open Font Licence](https://fonts.google.com/specimen/Pragati+Narrow/about?subset=devanagari), this FPM wrapper is also
 under [Open Font License](LICENSE).
 
 
