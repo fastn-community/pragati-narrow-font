@@ -20,18 +20,18 @@ Omnibus-Type is a collective typefoundry based in Buenos Aires, Argentina. [Home
 
 TLRD:
 
-Include fifthtry.github.io/pragati-narrow package into `FPM.ftd` file:
+Include fifthtry.github.io/pragati-narrow-font package into `FPM.ftd` file:
 
 ```ftd
--- fpm.dependency: fifthtry.github.io/pragati-narrow
+-- fpm.dependency: fifthtry.github.io/pragati-narrow-font
 ```
 
 Inside your `FPM/config.ftd` use the font:
 
 ```ftd
--- import: fifthtry.github.io/pragati-narrow
+-- import: fifthtry.github.io/pragati-narrow-font/assets as pragati-narrow
 
--- fpm.type.headline-small.font: $pragati-narrow.fonts.pragati-narrow
+-- fpm.type.headline-small.font: $pragati-narrow.fonts.Pragati-Narrow
 ```
 
 Now if in any file you do:
