@@ -3,7 +3,7 @@
 -- fpm.package: fifthtry.github.io/pragati-narrow-font
 download-base-url: https://raw.githubusercontent.com/fifthtry/pragati-narrow-font/main
 
-
+-- fpm.dependency: fifthtry.github.io/package-doc
 
 -- fpm.font: Pragati-Narrow
 style: normal
