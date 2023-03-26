@@ -1,11 +1,11 @@
--- import: fifthtry.github.io/pragati-narrow-font/assets as pragati-narrow-assets
+-- import: fastn-community.github.io/pragati-narrow-font/assets as pragati-narrow-assets
 -- import: fifthtry.github.io/package-doc/doc as pd
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
 -- import: fifthtry.github.io/package-doc/footer
 
 ;; ⚠️fastn-builders::⚠️ before using this file please find and replace pragati-narrow
 ;; with font name you have given inside 
-;; `<user_name>.github.io/pragati-narrow/FASTN.ftd file
+;; `fastn-community.github.io/pragati-narrow/FASTN.ftd file
 
 
 
@@ -23,7 +23,7 @@ site-name: `pragati-narrow-font`
 -- end: ds.page.footer
 
 -- pd.package: FTD pragati-narrow package
-name: fifthtry.github.io/pragati-narrow-font
+name: fastn-community.github.io/pragati-narrow-font
 
 This FTD font `pragati-narrow` package is for your ftd web projects. To Use this
 pragati-narrow inside `FTD` project follow below instructions.
@@ -33,7 +33,7 @@ pragati-narrow inside `FTD` project follow below instructions.
 -- ds.code: Add this to your FASTN.ftd
 lang: ftd
 
-\-- fastn.dependency: fifthtry.github.io/pragati-narrow-font
+\-- fastn.dependency: fastn-community.github.io/pragati-narrow-font
 
 -- ds.markdown: 
 
@@ -45,7 +45,7 @@ follow below instructions.
 -- ds.code:
 lang: ftd
 
-\-- import: fifthtry.github.io/pragati-narrow-font/assets as pragati-narrow-assets
+\-- import: fastn-community.github.io/pragati-narrow-font/assets as pragati-narrow-assets
 
 
 -- ds.h3: How to create a custom pragati-narrow type? 
@@ -55,11 +55,11 @@ lang: ftd
 How to use `ftd.type` to create a custom font `types` using pragati-narrow? 
 
 We don't recommend creating custom types. We recommend to use 
-our [pragati-narrow-typography](fifthtry.github.io/pragati-narrow-typography)
+our [pragati-narrow-typography](https://fastn-community.github.io/pragati-narrow-typography)
 
-If you're using [pragati-narrow-typography](fifthtry.github.io/pragati-narrow-typography) 
+If you're using [pragati-narrow-typography](https://fastn-community.github.io/pragati-narrow-typography) 
 and still your designer has introduced new font size which is not included or 
-part of our [pragati-narrow-typography](fifthtry.github.io/pragati-narrow-typography) 
+part of our [pragati-narrow-typography](https://fastn-community.github.io/pragati-narrow-typography) 
 then only define custom types. 
 
 We hope you shouldn't need to define a custom type.
@@ -84,6 +84,14 @@ font-family: $pragati-narrow-assets.fonts.Pragati-Narrow
 \-- ftd.responsive-type pragati-narrow-size-12-400:
 desktop: $pragati-narrow-size-12-desktop
 mobile: $pragati-narrow-size-12-mobile
+
+\-- ftd.text: 
+role: $pragati-narrow-size-12-400
+color: $inherited.colors.text-strong
+
+`font-size: 12px, font-weight: 400` 
+
+👉 The quick brown fox jumps over the lazy dog 
 
 -- ds.rendered.output:
 
