@@ -1,6 +1,6 @@
 -- import: fifthtry.github.io/package-doc/doc as pd
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
--- import: fifthtry.github.io/pragati-narrow-font/custom
+-- import: fastn-community.github.io/pragati-narrow-font/custom
 -- import: fifthtry.github.io/package-doc/footer
 
 
@@ -17,11 +17,11 @@ site-name: `pragati-narrow-font`
 -- end: ds.page.footer
 
 -- pd.package: FTD pragati-narrow package
-name: fifthtry.github.io/pragati-narrow-font
+name: fastn-community.github.io/pragati-narrow-font
 
 This FTD font `pragati-narrow` can be used for your ftd web projects. 
 
-To Use this pragati-narrow inside `FTD` project visit [pragati-narrow-typography](https://fifthtry.github.io/pragati-narrow-typography).
+To Use this pragati-narrow inside `FTD` project visit [pragati-narrow-typography](https://fastn-community.github.io/pragati-narrow-typography).
 
 -- ds.h3: pragati-narrow various sizes
 
