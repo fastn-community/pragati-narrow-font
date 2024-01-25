@@ -1,0 +1,61 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "0337358671EA303997E5BE11F5FF85CE09D748D8432595B41D505D548271AC46",
+      "size": 2059
+    },
+    "LICENSE": {
+      "name": "LICENSE",
+      "checksum": "E5420B70BA0FD03653F76181137C877AC77B926F7A26EE3473B2039F1E3F3FAC",
+      "size": 4010
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "47AB74041DBA674B64E63C796686B37E08E21AF322395ECC623644C9BD5F7B1F",
+      "size": 1831
+    },
+    "custom.ftd": {
+      "name": "custom.ftd",
+      "checksum": "2737D2771F7595878E0F52B14BD1014E5E955F66B63162F971AE4683172510DD",
+      "size": 6609
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "B2E4AED5ADCADB996554B288EE42BF863107C7511CD61CD793E11A3581F8F295",
+      "size": 2372
+    },
+    "static/Pragati-Narrow-400-normal-devanagari.woff2": {
+      "name": "static/Pragati-Narrow-400-normal-devanagari.woff2",
+      "checksum": "2D9DDE89461290544E3E6661093F37B7F6752E2AD210BF5DA918F5D9DC170E92",
+      "size": 75564
+    },
+    "static/Pragati-Narrow-400-normal-latin-ext.woff2": {
+      "name": "static/Pragati-Narrow-400-normal-latin-ext.woff2",
+      "checksum": "5C498A6794591831CF20F2F361D4A02A7E86EA499D78B3BCC018EF1679821A17",
+      "size": 14668
+    },
+    "static/Pragati-Narrow-400-normal-latin.woff2": {
+      "name": "static/Pragati-Narrow-400-normal-latin.woff2",
+      "checksum": "97EA338CB9F7FD9C01F4634E1CED193B6760358DF35A56FBA2D353DFBD15D85E",
+      "size": 18788
+    },
+    "static/Pragati-Narrow-700-normal-devanagari.woff2": {
+      "name": "static/Pragati-Narrow-700-normal-devanagari.woff2",
+      "checksum": "B7D62E52439388012807DADCB744DA3E4F0AF7DF823679EE2B6F5B897B3F8E4B",
+      "size": 80796
+    },
+    "static/Pragati-Narrow-700-normal-latin-ext.woff2": {
+      "name": "static/Pragati-Narrow-700-normal-latin-ext.woff2",
+      "checksum": "612FACA8057BA7F6B003A03A8A1D35188FFA0DFFC922CF2D1AC94986FD6B7872",
+      "size": 14748
+    },
+    "static/Pragati-Narrow-700-normal-latin.woff2": {
+      "name": "static/Pragati-Narrow-700-normal-latin.woff2",
+      "checksum": "8E57B481EB4F42DAECC740DC817131C9D2C74B411CD29F84359369E1E79E138A",
+      "size": 18980
+    }
+  },
+  "zip_url": "https://codeload.github.com/fastn-community/pragati-narrow-font/zip/refs/heads/main",
+  "checksum": "14C0FAC4E1CFEB91BD17378A40F07D811BF281436B4C899062C29EF57C22D362"
+}
